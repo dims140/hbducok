@@ -109,19 +109,6 @@ body {
 
 /* ================= RESPONSIVE ================= */
 
-@media (max-width: 768px) {
-
-  .book {
-    width: 230px;
-    height: 300px;
-  }
-
-
-  .bg-front img {
-    width: 95%;
-  }
-}
-
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 
 /* BUTTON PEMICU */
@@ -273,3 +260,4 @@ textarea {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
   }
+
