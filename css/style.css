@@ -12,16 +12,6 @@ body {
 
 /* ================= BACKGROUND ================= */
 
-/* BG 1 - FULL SCREEN */
-.bg-back {
-  position: fixed;
-  inset: 0;
-  background-image: url('../assets/background/bg.webp');
-  background-size: cover;
-  background-position: center;
-  z-index: -4;
-}
-
 /* BG 2 - ARTWORK (ANTI ZOOM & ANTI CROP) */
 /* BG 2 - KERTAS DENGAN SAMPING FULL */
 .bg-front {
@@ -260,4 +250,5 @@ textarea {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
   }
+
 
